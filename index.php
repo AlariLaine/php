@@ -16,7 +16,9 @@
      </header>
       <nav>
         <ul>
-            <li><a href="php1-3.php">Ylesanne 1-3</a></li>
+            <li><a href="php1.php">Ylesanne 1</a></li>
+            <li><a href="php2.php">Ylesanne 2</a></li>
+            <li><a href="php3.php">Ylesanne 3</a></li>
             <li><a href="php4.php">Ylesanne 4</a></li>
             <li><a href="php5.php">Ylesanne 5</a></li>
             <li><a href="php6.php">Ylesanne 6</a></li>
